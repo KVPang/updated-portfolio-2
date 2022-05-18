@@ -6,4 +6,4 @@
 
 ## Links 
 - GitHub: https://github.com/KVPang/updated-portfolio-2
-- Deployed: 
+- Deployed: https://kvpang.github.io/updated-portfolio-2/
